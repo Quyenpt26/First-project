@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>212b26db-29d0-44af-9bdf-dd9c4a4a0fb3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a4ff25b-993d-40f1-9cc3-08ce1ee12f1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ae9ac0a-43c5-41e2-be1c-6aa713c056f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39d01d3d-b77a-4cf0-8893-720f445f084f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a4ff25b-993d-40f1-9cc3-08ce1ee12f1b</id>
+      <masked>false</masked>
+      <name>companycode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ae9ac0a-43c5-41e2-be1c-6aa713c056f9</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39d01d3d-b77a-4cf0-8893-720f445f084f</id>
+      <masked>false</masked>
+      <name>PW</name>
+   </variable>
+</TestCaseEntity>
